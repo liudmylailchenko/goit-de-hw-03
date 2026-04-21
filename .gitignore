@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+.spark-history/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Captured stdout used for screenshot generation
+run_output.txt

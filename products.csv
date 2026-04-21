@@ -1,0 +1,28 @@
+product_id,product_name,category,price
+101,Apple iPhone 15,Electronics,1200.00
+102,Samsung TV 55,Electronics,850.00
+103,Sony Headphones,Electronics,150.00
+104,Nike Running Shoes,Clothing,120.00
+105,Adidas T-Shirt,Clothing,45.00
+106,Levi's Jeans,Clothing,80.00
+107,The Great Gatsby,Books,15.00
+108,Python Programming,Books,35.00
+109,Data Science Handbook,Books,40.00
+110,Organic Apples 1kg,Groceries,3.50
+111,Whole Grain Bread,Groceries,2.50
+112,Milk 1L,Groceries,1.80
+113,Blender,Home Appliances,75.00
+114,Coffee Maker,Home Appliances,120.00
+115,Vacuum Cleaner,Home Appliances,220.00
+116,Lipstick,Beauty,25.00
+117,Shampoo,Beauty,12.00
+118,Perfume,Beauty,90.00
+119,Football,Sports,30.00
+120,Yoga Mat,Sports,40.00
+121,Dumbbells Set,Sports,65.00
+122,LEGO Castle,Toys,55.00
+123,Barbie Doll,Toys,25.00
+124,RC Car,Toys,70.00
+125,Office Chair,Furniture,180.00
+126,Coffee Table,Furniture,,
+127,Desk Lamp,Furniture,45.00
